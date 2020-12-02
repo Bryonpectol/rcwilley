@@ -1,0 +1,39 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+input {
+    width: 60vh;
+    margin: 5vh;
+    margin-left: 35%;
+    height: 5vh;
+    padding-left: 2vh;
+    padding-right: 2vh;
+}
+
+button {
+    width: 60vh;
+    margin: 5vh;
+    margin-left: 36.07%;
+    height: 5vh;
+}
+
+h1 {
+    margin: 5vh;
+}
